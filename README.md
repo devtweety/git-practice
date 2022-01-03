@@ -1,2 +1,4 @@
 # git-practice
-Change 1 after merge
+Aiurea
+Oare ce e aici
+Test
